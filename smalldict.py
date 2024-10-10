@@ -1,5 +1,3 @@
-import random as rand
-
 smalld = ['similar','pedal','diaper','rattle','scatter','siren','referee','wizard','rocket','erase','frog','build','problem','crash',
      'take','clown','question','crease','angry','ugly','remove','waddle','mumble','fairy','asylum','need','long','none','napkin',
      'waffle','danger','tummy','midway','begin','hammock','want','emergency','taste','treasure','ding','cocoon','dragon',
